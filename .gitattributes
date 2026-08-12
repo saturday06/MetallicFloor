@@ -1,0 +1,16 @@
+* -text
+.* text eol=lf
+
+*.asmdef text eol=lf
+*.asset text eol=lf
+*.cs text eol=lf
+*.inputactions text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+csc.rsp text eol=lf
+Directory.Build.props text eol=crlf
+
+/Packages/.gitignore text eol=crlf
+/Packages/vpm-manifest.json text eol=crlf
